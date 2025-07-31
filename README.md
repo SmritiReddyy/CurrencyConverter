@@ -31,3 +31,13 @@ Enter amount to convert: 100
 Output:
 100.00 USD = 8310.50 INR
 
+📝 License
+
+This project is licensed under the MIT License. Feel free to use and modify it.
+
+Acknowledgements
+
+[ExchangeRate-API][https://www.exchangerate-api.com]
+[org.json Java library][https://github.com/stleary/JSON-java]
+
+
