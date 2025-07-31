@@ -26,10 +26,14 @@ Or run via IntelliJ by right-clicking Main.java and selecting Run.
 3. Sample Input:
 
    Enter base currency (e.g., USD): USD
+   
    Enter target currency (e.g., INR): INR
+   
    Enter amount to convert: 100
+   
 
 Output:
+
    100.00 USD = 8310.50 INR
 
 📝 License
